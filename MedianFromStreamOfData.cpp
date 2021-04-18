@@ -5,7 +5,6 @@
  */
 
 #include <bits/stdc++.h>
-#include "../../library/TestInputUtil.h"
 
 using namespace std;
 
